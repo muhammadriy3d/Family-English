@@ -2,7 +2,7 @@
 
 ## What is Family?
 
-Family is a social media application born from the mind of a young technology enthusiast who values privacy and security. It sets itself apart by prioritizing the privacy of its users, a commitment that distinguishes it from other platforms.
+Family is a social media application born from the mind of a young technology enthusiast who values privacy and security. In year 2017-2018. It sets itself apart by prioritizing the privacy of its users, a commitment that distinguishes it from other platforms.
 
 ## Who am I?
 
