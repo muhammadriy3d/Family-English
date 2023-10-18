@@ -1,4 +1,4 @@
-# Family: A Platform for Freedom Of Speech & Expression
+# Family: A Network for Freedom Of Speech & Expression
 
 ## What is Family?
 
