@@ -18,7 +18,7 @@ The inception of this app dates back to 2018 when I was just starting my journey
 
 ## How can you contribute and learn more?
 
-I invite all programmers and well-intentioned individuals to join us in evolving and creating the best Arabian social media platform. If you're interested, please feel free to contact me via email at muhammad@truprox.com or through this repository by raising an issue under the "help wanted" tag.
+I invite all programmers and well-intentioned individuals to join us in evolving and creating the best Arabian social media platform. If you're interested, please feel free to contact me via email at muhammad@truprox.com or through this repository by raising a discussion topic from the navbar above and under the "wanted to join" hashtag/tag.
 
 ## License
 
