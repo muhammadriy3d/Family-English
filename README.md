@@ -8,9 +8,13 @@ Family is a social media application born from the mind of a young technology en
 
 I am a young and creative programmer, a visionary entrepreneur, a tech-savvy coder, and a proud Arabian.
 
-## My Goal
+## Problem to solve
+- The restriction for freedom of speech on the arabian world.
+- No official network is exist in the arabian world.
 
-My primary mission is to ensure both freedom of speech and robust privacy protection.
+## My Goal
+- My primary mission is to ensure both freedom of speech and robust privacy protection.
+- Provide secure & privacy focus platform.
 
 ## When did the idea begin?
 
